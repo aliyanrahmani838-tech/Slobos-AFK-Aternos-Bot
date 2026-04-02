@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "aliyan_7157.aternos.me",
+    "ip": "aliyan_7157.aternos.me:11587",
     "port": 11587,
     "version": "",
     "try-creative": false
